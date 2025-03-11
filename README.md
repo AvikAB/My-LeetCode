@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/AvikAB/LeetCode/tree/master/0075-sort-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
