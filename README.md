@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0075-sort-colors](https://github.com/AvikAB/LeetCode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/AvikAB/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AvikAB/LeetCode/tree/master/0075-sort-colors) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
 | ------- |
