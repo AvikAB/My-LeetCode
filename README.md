@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/AvikAB/My-LeetCode/tree/master/0263-ugly-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AvikAB/My-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Bit Manipulation
 |  |
