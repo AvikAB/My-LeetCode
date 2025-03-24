@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3412-permutation-difference-between-two-strings](https://github.com/AvikAB/My-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3412-permutation-difference-between-two-strings](https://github.com/AvikAB/My-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Queue
 |  |
 | ------- |
