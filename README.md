@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/AvikAB/My-LeetCode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
