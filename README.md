@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0162-find-peak-element](https://github.com/AvikAB/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvikAB/My-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0075-sort-colors](https://github.com/AvikAB/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvikAB/My-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0162-find-peak-element](https://github.com/AvikAB/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvikAB/My-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
