@@ -4,7 +4,7 @@ class Solution {
     vector<ll>primes;
 
     void PrimeGen(ll n){
-        isPrime.assign(n + 1, false);
+        isPrime.assign(n+1, false);  // resize dynamically
         for(int i=3; i<=n; i+=2) isPrime[i] = 1;
 
         ll sqr = sqrt(n);
