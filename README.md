@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AvikAB/My-LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/AvikAB/My-LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AvikAB/My-LeetCode/tree/master/0263-ugly-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AvikAB/My-LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
