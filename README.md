@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0031-next-permutation](https://github.com/AvikAB/My-LeetCode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/AvikAB/My-LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/AvikAB/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/AvikAB/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvikAB/My-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -204,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AvikAB/My-LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
