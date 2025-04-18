@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0001-two-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AvikAB/My-LeetCode/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/AvikAB/My-LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/AvikAB/My-LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/AvikAB/LeetCode/tree/master/0075-sort-colors) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AvikAB/My-LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AvikAB/My-LeetCode/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
