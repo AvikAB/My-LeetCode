@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0009-palindrome-number](https://github.com/AvikAB/My-LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/AvikAB/My-LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AvikAB/My-LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/AvikAB/My-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AvikAB/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AvikAB/My-LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/AvikAB/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvikAB/My-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
