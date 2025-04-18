@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AvikAB/My-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3778-transform-array-by-parity](https://github.com/AvikAB/My-LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AvikAB/My-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
@@ -293,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AvikAB/My-LeetCode/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
