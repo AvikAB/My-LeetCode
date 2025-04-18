@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0263-ugly-number](https://github.com/AvikAB/My-LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AvikAB/My-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
 | [3817-maximum-containers-on-a-ship](https://github.com/AvikAB/My-LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
