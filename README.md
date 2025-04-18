@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/AvikAB/My-LeetCode/tree/master/0742-to-lower-case) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1508-longest-happy-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AvikAB/My-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -237,4 +238,16 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0051-n-queens](https://github.com/AvikAB/My-LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0090-subsets-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/1508-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
