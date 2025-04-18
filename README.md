@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0070-climbing-stairs](https://github.com/AvikAB/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AvikAB/My-LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AvikAB/My-LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/AvikAB/My-LeetCode/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AvikAB/My-LeetCode/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AvikAB/My-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
