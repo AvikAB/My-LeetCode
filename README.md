@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AvikAB/My-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AvikAB/My-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3778-transform-array-by-parity](https://github.com/AvikAB/My-LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
+| [3778-transform-array-by-parity](https://github.com/AvikAB/My-LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AvikAB/My-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3778-transform-array-by-parity](https://github.com/AvikAB/My-LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
