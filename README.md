@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0070-climbing-stairs](https://github.com/AvikAB/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/AvikAB/My-LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AvikAB/My-LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0050-powx-n](https://github.com/AvikAB/My-LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvikAB/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AvikAB/My-LeetCode/tree/master/0058-length-of-last-word) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/AvikAB/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AvikAB/My-LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0055-jump-game](https://github.com/AvikAB/My-LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AvikAB/My-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AvikAB/My-LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AvikAB/My-LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
