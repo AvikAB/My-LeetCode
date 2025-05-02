@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-binary-search](https://github.com/AvikAB/My-LeetCode/tree/master/0792-binary-search) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AvikAB/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0077-combinations](https://github.com/AvikAB/My-LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
 ## Rolling Hash
 |  |
 | ------- |
