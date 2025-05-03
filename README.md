@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvikAB/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AvikAB/My-LeetCode/tree/master/0058-length-of-last-word) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
