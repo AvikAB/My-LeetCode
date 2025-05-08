@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AvikAB/My-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2752-sum-multiples](https://github.com/AvikAB/My-LeetCode/tree/master/2752-sum-multiples) |
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AvikAB/My-LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3817-maximum-containers-on-a-ship](https://github.com/AvikAB/My-LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
