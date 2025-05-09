@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/AvikAB/My-LeetCode/tree/master/1656-count-good-triplets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AvikAB/My-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AvikAB/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AvikAB/My-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
