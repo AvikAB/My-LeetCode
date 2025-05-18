@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2649-count-total-number-of-colored-cells](https://github.com/AvikAB/My-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/AvikAB/My-LeetCode/tree/master/2752-sum-multiples) |
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AvikAB/My-LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3817-maximum-containers-on-a-ship](https://github.com/AvikAB/My-LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AvikAB/My-LeetCode/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AvikAB/My-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AvikAB/My-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -383,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
