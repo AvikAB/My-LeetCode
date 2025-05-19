@@ -14,7 +14,8 @@ public:
         int idx = -1;
         for(int i=0; i<nums.size(); i++){
             if(dig(nums[i])==i){
-                if(idx==-1 or i<idx) idx = i;
+                if(idx==-1) idx = i;  // idx not updated yet
+                else idx = min(idx, i);  // updated idx, now find the min of it
             }
         }
         return idx;
