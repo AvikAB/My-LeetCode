@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AvikAB/My-LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AvikAB/My-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3226-minimum-number-game](https://github.com/AvikAB/My-LeetCode/tree/master/3226-minimum-number-game) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AvikAB/My-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/AvikAB/My-LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AvikAB/My-LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
