@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2048-build-array-from-permutation](https://github.com/AvikAB/My-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AvikAB/My-LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sorting
 |  |
 | ------- |
