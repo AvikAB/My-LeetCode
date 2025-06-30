@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/AvikAB/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-binary-search](https://github.com/AvikAB/My-LeetCode/tree/master/0792-binary-search) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AvikAB/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvikAB/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AvikAB/My-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
