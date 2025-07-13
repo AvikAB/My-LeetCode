@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AvikAB/My-LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AvikAB/My-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AvikAB/My-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3226-minimum-number-game](https://github.com/AvikAB/My-LeetCode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/AvikAB/My-LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AvikAB/My-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AvikAB/My-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
