@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/AvikAB/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/AvikAB/My-LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Matrix
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
@@ -455,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
