@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0136-single-number](https://github.com/AvikAB/My-LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AvikAB/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvikAB/My-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AvikAB/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
@@ -465,9 +467,15 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
