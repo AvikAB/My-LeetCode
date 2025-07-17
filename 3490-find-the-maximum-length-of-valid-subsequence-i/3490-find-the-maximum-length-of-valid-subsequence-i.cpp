@@ -1,12 +1,19 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        vector<int> same(2,0), diff(2,0);
-        for(int i=0; i<nums.size(); i++){
-            int currRem = nums[i]%2;
-            same[currRem] = same[currRem]+1;
-            diff[currRem] = max(diff[currRem], 1+diff[1^currRem]);
+        int oddCnt = 0;
+        int evenCnt = 0;
+        for(int &av:nums){
+            if(av%2==0) evenCnt++;
+            else oddCnt++;
         }
-        return max({same[0], same[1], diff[0], diff[1]});
+        int alternating = 1;
+        int parity = nums[0]%2;
+        for(int i=1; i<nums.size(); i++){
+            int currParity = nums[i]%2;
+            if(currParity!=parity) alternating++;
+            parity = currParity;
+        }
+        return max({oddCnt, evenCnt, alternating});
     }
 };
