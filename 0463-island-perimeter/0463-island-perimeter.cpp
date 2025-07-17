@@ -3,7 +3,7 @@ public:
     void dfs(int i, int j, int &peri, vector<vector<int>> &grid){
         int n = grid.size();
         int m = grid[0].size();
-        if(i<0 or j<0 or i>=n or j>=m or grid[i][j]==0){
+        if(i<0 or j<0 or i>=n or j>=m or grid[i][j]==0){  // if it is out of bound and adjacent grid is 0 then it will count the perimeter one by one
             peri++;
             return;
         }
