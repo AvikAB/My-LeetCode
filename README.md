@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AvikAB/My-LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AvikAB/My-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3226-minimum-number-game](https://github.com/AvikAB/My-LeetCode/tree/master/3226-minimum-number-game) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/AvikAB/My-LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
