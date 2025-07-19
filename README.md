@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AvikAB/My-LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AvikAB/My-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0657-robot-return-to-origin](https://github.com/AvikAB/My-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/AvikAB/My-LeetCode/tree/master/0742-to-lower-case) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1508-longest-happy-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AvikAB/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Brainteaser
 |  |
 | ------- |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AvikAB/My-LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
