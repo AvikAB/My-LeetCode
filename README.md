@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AvikAB/My-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/AvikAB/My-LeetCode/tree/master/1656-count-good-triplets) |
+| [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/AvikAB/My-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AvikAB/My-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0463-island-perimeter](https://github.com/AvikAB/My-LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
