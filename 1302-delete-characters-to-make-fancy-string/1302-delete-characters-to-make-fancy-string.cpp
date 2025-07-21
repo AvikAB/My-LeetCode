@@ -14,4 +14,4 @@ public:
 };
 
 
-// At least 2 chars in my ans to check for consecutive, the last char in ans is the same as current (ans[ans.size()-1]) and also the second last char in ans is also the same (ans[ans.size()-2]) then skip and put the curr in the ans.
+// At least 2 chars in my ans to check for consecutive, the last char in ans is the same as current (ans[ans.size()-1]) and also the second last char in ans is also the same (ans[ans.size()-2]) then skip the curr in the ans.
