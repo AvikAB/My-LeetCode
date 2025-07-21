@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0742-to-lower-case](https://github.com/AvikAB/My-LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/AvikAB/My-LeetCode/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/AvikAB/My-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1508-longest-happy-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AvikAB/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
