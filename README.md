@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AvikAB/My-LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3568-find-the-key-of-the-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AvikAB/My-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3817-maximum-containers-on-a-ship](https://github.com/AvikAB/My-LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
