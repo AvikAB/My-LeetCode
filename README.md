@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AvikAB/My-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1508-longest-happy-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/1508-longest-happy-prefix) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AvikAB/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0020-valid-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Prefix Sum
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AvikAB/My-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
