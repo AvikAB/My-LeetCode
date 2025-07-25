@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/AvikAB/My-LeetCode/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/AvikAB/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AvikAB/My-LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/AvikAB/My-LeetCode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/AvikAB/My-LeetCode/tree/master/0816-design-hashset) |
+| [0940-fruit-into-baskets](https://github.com/AvikAB/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/AvikAB/My-LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvikAB/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/AvikAB/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/AvikAB/My-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AvikAB/My-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
