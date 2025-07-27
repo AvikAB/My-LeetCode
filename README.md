@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AvikAB/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AvikAB/My-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AvikAB/My-LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AvikAB/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AvikAB/My-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AvikAB/My-LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AvikAB/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AvikAB/My-LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0435-non-overlapping-intervals) |
