@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/AvikAB/My-LeetCode/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/AvikAB/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AvikAB/My-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0435-non-overlapping-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AvikAB/My-LeetCode/tree/master/1086-divisor-game) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
