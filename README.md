@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AvikAB/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AvikAB/My-LeetCode/tree/master/0414-third-maximum-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0217-contains-duplicate](https://github.com/AvikAB/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AvikAB/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AvikAB/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AvikAB/My-LeetCode/tree/master/0414-third-maximum-number) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0217-contains-duplicate](https://github.com/AvikAB/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AvikAB/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AvikAB/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0053-maximum-subarray](https://github.com/AvikAB/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Binary Indexed Tree
 |  |
@@ -515,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AvikAB/My-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -567,4 +573,9 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
