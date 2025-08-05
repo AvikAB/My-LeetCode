@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3778-transform-array-by-parity](https://github.com/AvikAB/My-LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AvikAB/My-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AvikAB/My-LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AvikAB/My-LeetCode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AvikAB/My-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AvikAB/My-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3790-fruits-into-baskets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AvikAB/My-LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/AvikAB/My-LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 ## Stack
 |  |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AvikAB/My-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/AvikAB/My-LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
