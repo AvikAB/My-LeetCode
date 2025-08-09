@@ -2,7 +2,7 @@ class Solution {
 #define ll long long
 public:
     ll m = 1337;  // here, 1337 isn't a prime num, thats why we need to find the phi of 1337
-    // phi(1337) = (7-1)*(191-1) -> 1440
+    // phi(1337) = (7-1)*(191-1) -> 1140
     ll p1 = 7, p2 = 191;
     ll phi_p1 = 6, phi_p2 = 190;
 
