@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0326-power-of-three](https://github.com/AvikAB/My-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AvikAB/My-LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AvikAB/My-LeetCode/tree/master/0367-valid-perfect-square) |
+| [0372-super-pow](https://github.com/AvikAB/My-LeetCode/tree/master/0372-super-pow) |
 | [0826-soup-servings](https://github.com/AvikAB/My-LeetCode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AvikAB/My-LeetCode/tree/master/1086-divisor-game) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0215-kth-largest-element-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/AvikAB/My-LeetCode/tree/master/0372-super-pow) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Binary Indexed Tree
 |  |
