@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AvikAB/My-LeetCode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3973-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3973-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AvikAB/My-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3973-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Sliding Window
 |  |
 | ------- |
