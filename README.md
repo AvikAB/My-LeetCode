@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/AvikAB/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/AvikAB/My-LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/AvikAB/My-LeetCode/tree/master/0816-design-hashset) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0367-valid-perfect-square](https://github.com/AvikAB/My-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/AvikAB/My-LeetCode/tree/master/0372-super-pow) |
 | [0492-construct-the-rectangle](https://github.com/AvikAB/My-LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/AvikAB/My-LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AvikAB/My-LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0078-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Rolling Hash
 |  |
