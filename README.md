@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AvikAB/My-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AvikAB/My-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1448-maximum-69-number](https://github.com/AvikAB/My-LeetCode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/AvikAB/My-LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AvikAB/My-LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AvikAB/My-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
