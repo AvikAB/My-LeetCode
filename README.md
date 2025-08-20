@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AvikAB/My-LeetCode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/AvikAB/My-LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/AvikAB/My-LeetCode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/AvikAB/My-LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0118-pascals-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AvikAB/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0221-maximal-square](https://github.com/AvikAB/My-LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
