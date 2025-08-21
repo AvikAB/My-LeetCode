@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1603-running-sum-of-1d-array](https://github.com/AvikAB/My-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AvikAB/My-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/AvikAB/My-LeetCode/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/AvikAB/My-LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0020-valid-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Prefix Sum
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AvikAB/My-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3973-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1086-divisor-game](https://github.com/AvikAB/My-LeetCode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/AvikAB/My-LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/AvikAB/My-LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Monotonic Stack
 |  |
 | ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Trie
 |  |
