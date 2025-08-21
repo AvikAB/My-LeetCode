@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AvikAB/My-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AvikAB/My-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/AvikAB/My-LeetCode/tree/master/2689-rearranging-fruits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AvikAB/My-LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/AvikAB/My-LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AvikAB/My-LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AvikAB/My-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AvikAB/My-LeetCode/tree/master/0258-add-digits) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 ## Dynamic Programming
 |  |
 | ------- |
