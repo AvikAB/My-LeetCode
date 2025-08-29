@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2752-sum-multiples](https://github.com/AvikAB/My-LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AvikAB/My-LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AvikAB/My-LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/AvikAB/My-LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AvikAB/My-LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
