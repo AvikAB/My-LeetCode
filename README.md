@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0031-next-permutation](https://github.com/AvikAB/My-LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AvikAB/My-LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/AvikAB/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AvikAB/My-LeetCode/tree/master/0046-permutations) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0001-two-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvikAB/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/AvikAB/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/AvikAB/My-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AvikAB/My-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AvikAB/My-LeetCode/tree/master/0217-contains-duplicate) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AvikAB/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/AvikAB/My-LeetCode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/AvikAB/My-LeetCode/tree/master/0463-island-perimeter) |
