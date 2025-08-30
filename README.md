@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AvikAB/My-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/AvikAB/My-LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3973-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Sorting
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/AvikAB/My-LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/AvikAB/My-LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AvikAB/My-LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0292-nim-game](https://github.com/AvikAB/My-LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/AvikAB/My-LeetCode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/AvikAB/My-LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
+| [2481-strictly-palindromic-number](https://github.com/AvikAB/My-LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AvikAB/My-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
