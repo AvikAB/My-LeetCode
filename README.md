@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1293-three-consecutive-odds](https://github.com/AvikAB/My-LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AvikAB/My-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1362-airplane-seat-assignment-probability](https://github.com/AvikAB/My-LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AvikAB/My-LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AvikAB/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/AvikAB/My-LeetCode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/AvikAB/My-LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
