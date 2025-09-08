@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0046-permutations](https://github.com/AvikAB/My-LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AvikAB/My-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AvikAB/My-LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AvikAB/My-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AvikAB/My-LeetCode/tree/master/0057-insert-interval) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0036-valid-sudoku](https://github.com/AvikAB/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AvikAB/My-LeetCode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/AvikAB/My-LeetCode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/AvikAB/My-LeetCode/tree/master/0463-island-perimeter) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AvikAB/My-LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/AvikAB/My-LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/AvikAB/My-LeetCode/tree/master/0657-robot-return-to-origin) |
