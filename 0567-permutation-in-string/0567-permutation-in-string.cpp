@@ -15,23 +15,17 @@ public:
 
         for (int i = idx; i < n; i++) {
             swap(s1[i], s1[idx]);
-            
             solve(idx + 1, s1, s2);
-
             swap(s1[i], s1[idx]);
-
             // Early exit if a permutation has been found in s2
-            if (result == true) 
-                return;
+            if (result == true) return;
         }
     }
 
     bool checkInclusion(string s1, string s2) {
         n = s1.length();
         result = false;  // Reset result for each call
-
         solve(0, s1, s2);
-
         return result;  // Return whether a permutation of s1 is found in s2
     }
 };
