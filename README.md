@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AvikAB/My-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/AvikAB/My-LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/AvikAB/My-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/AvikAB/My-LeetCode/tree/master/3312-number-of-changing-keys) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/AvikAB/My-LeetCode/tree/master/2689-rearranging-fruits) |
 | [3324-split-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/3324-split-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AvikAB/My-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/AvikAB/My-LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AvikAB/My-LeetCode/tree/master/0816-design-hashset) |
+| [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 ## Linked List
 |  |
@@ -722,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1917-maximum-average-pass-ratio](https://github.com/AvikAB/My-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3226-minimum-number-game](https://github.com/AvikAB/My-LeetCode/tree/master/3226-minimum-number-game) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/AvikAB/My-LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
