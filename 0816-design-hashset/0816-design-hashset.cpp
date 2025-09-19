@@ -1,21 +1,21 @@
 class MyHashSet {
 private:
-    vector<bool>hash;
+    unordered_set<int>s;
 public:
     MyHashSet() {
-        hash.resize(1e6+1, false);
+       // nothing to initialize
     }
     
     void add(int key) {
-        hash[key] = true;
+        s.insert(key);
     }
     
     void remove(int key) {
-        hash[key] = false;
+        s.erase(key);
     }
     
     bool contains(int key) {
-        return hash[key];
+        return s.find(key) != s.end();
     }
 };
 
