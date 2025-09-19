@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/AvikAB/My-LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/AvikAB/My-LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AvikAB/My-LeetCode/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/0898-transpose-matrix) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/AvikAB/My-LeetCode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/AvikAB/My-LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AvikAB/My-LeetCode/tree/master/0817-design-hashmap) |
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/AvikAB/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/AvikAB/My-LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AvikAB/My-LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AvikAB/My-LeetCode/tree/master/0817-design-hashmap) |
 | [1508-longest-happy-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/1508-longest-happy-prefix) |
 ## Combinatorics
 |  |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AvikAB/My-LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AvikAB/My-LeetCode/tree/master/0817-design-hashmap) |
 | [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/AvikAB/My-LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/AvikAB/My-LeetCode/tree/master/3797-design-spreadsheet) |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AvikAB/My-LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AvikAB/My-LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AvikAB/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/AvikAB/My-LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
