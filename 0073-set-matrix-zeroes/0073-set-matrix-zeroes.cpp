@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Optimal: O(r*c * (r+c))
+    // Optimal: O(r*c)
     void setZeroes(vector<vector<int>>& matrix) {
         int r = matrix.size();
         int c = matrix[0].size();
