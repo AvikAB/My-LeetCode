@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0238-product-of-array-except-self](https://github.com/AvikAB/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AvikAB/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0125-valid-palindrome](https://github.com/AvikAB/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvikAB/My-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AvikAB/My-LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/AvikAB/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AvikAB/My-LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
