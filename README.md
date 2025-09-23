@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/AvikAB/My-LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/AvikAB/My-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AvikAB/My-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1539-diagonal-traverse-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AvikAB/My-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/AvikAB/My-LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AvikAB/My-LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/AvikAB/My-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AvikAB/My-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AvikAB/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
