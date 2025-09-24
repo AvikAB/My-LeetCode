@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0066-plus-one](https://github.com/AvikAB/My-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AvikAB/My-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AvikAB/My-LeetCode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AvikAB/My-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/AvikAB/My-LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0058-length-of-last-word](https://github.com/AvikAB/My-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AvikAB/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AvikAB/My-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/AvikAB/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AvikAB/My-LeetCode/tree/master/0344-reverse-string) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0036-valid-sudoku](https://github.com/AvikAB/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AvikAB/My-LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/AvikAB/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AvikAB/My-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/AvikAB/My-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AvikAB/My-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AvikAB/My-LeetCode/tree/master/0217-contains-duplicate) |
