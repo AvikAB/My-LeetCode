@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/AvikAB/My-LeetCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0451-sort-characters-by-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0349-intersection-of-two-arrays](https://github.com/AvikAB/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AvikAB/My-LeetCode/tree/master/0367-valid-perfect-square) |
+| [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/AvikAB/My-LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0435-non-overlapping-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AvikAB/My-LeetCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/AvikAB/My-LeetCode/tree/master/1448-maximum-69-number) |
