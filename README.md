@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0978-valid-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/AvikAB/My-LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AvikAB/My-LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AvikAB/My-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0867-new-21-game](https://github.com/AvikAB/My-LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/AvikAB/My-LeetCode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/AvikAB/My-LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AvikAB/My-LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/AvikAB/My-LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AvikAB/My-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
