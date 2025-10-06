@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/AvikAB/My-LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/AvikAB/My-LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AvikAB/My-LeetCode/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/AvikAB/My-LeetCode/tree/master/0830-largest-triangle-area) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0367-valid-perfect-square](https://github.com/AvikAB/My-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/AvikAB/My-LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0463-island-perimeter](https://github.com/AvikAB/My-LeetCode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/AvikAB/My-LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/0898-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0407-trapping-rain-water-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/AvikAB/My-LeetCode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AvikAB/My-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1539-diagonal-traverse-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1539-diagonal-traverse-ii) |
@@ -844,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0463-island-perimeter](https://github.com/AvikAB/My-LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AvikAB/My-LeetCode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
@@ -854,10 +859,12 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0463-island-perimeter](https://github.com/AvikAB/My-LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AvikAB/My-LeetCode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Quickselect
 |  |
 | ------- |
