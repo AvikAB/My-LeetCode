@@ -13,14 +13,14 @@ public:
                 int lake = rains[i];
                 if(lastRain.count(lake)){
                     int last = lastRain[lake];
-                    auto it = dry.upper_bound(last);
-                    if(it==dry.end()) return {};  // impossible
-                    else {
+                    auto it = dry.upper_bound(last);  // Find a dry day after that last rain
+                    if(it==dry.end()) return {};  // not found thats why impossible
+                    else {     //If found, dry that lake on that dry day.
                         ans[*it] = lake;
-                        dry.erase(it);
+                        dry.erase(it);   // remove that day from dry
                     }
                 }
-                lastRain[lake] = i;
+                lastRain[lake] = i;  // update
             }
         }
         return ans;
