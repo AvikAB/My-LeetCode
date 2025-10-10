@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AvikAB/My-LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/3324-split-the-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AvikAB/My-LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AvikAB/My-LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AvikAB/My-LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/AvikAB/My-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AvikAB/My-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AvikAB/My-LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AvikAB/My-LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AvikAB/My-LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
