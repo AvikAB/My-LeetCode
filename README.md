@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0120-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AvikAB/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AvikAB/My-LeetCode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/AvikAB/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/AvikAB/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AvikAB/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvikAB/My-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0066-plus-one](https://github.com/AvikAB/My-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AvikAB/My-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AvikAB/My-LeetCode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/AvikAB/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AvikAB/My-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/AvikAB/My-LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0036-valid-sudoku](https://github.com/AvikAB/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AvikAB/My-LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/AvikAB/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/AvikAB/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AvikAB/My-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/AvikAB/My-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AvikAB/My-LeetCode/tree/master/0202-happy-number) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/AvikAB/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/AvikAB/My-LeetCode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AvikAB/My-LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
