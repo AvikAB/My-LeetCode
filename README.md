@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AvikAB/My-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AvikAB/My-LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AvikAB/My-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvikAB/My-LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/AvikAB/My-LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/AvikAB/My-LeetCode/tree/master/3859-maximum-product-of-two-digits) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AvikAB/My-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/AvikAB/My-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AvikAB/My-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AvikAB/My-LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AvikAB/My-LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AvikAB/My-LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AvikAB/My-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AvikAB/My-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AvikAB/My-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
 |  |
