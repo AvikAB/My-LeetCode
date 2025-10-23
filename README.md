@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AvikAB/My-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/AvikAB/My-LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AvikAB/My-LeetCode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/AvikAB/My-LeetCode/tree/master/3830-find-closest-person) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AvikAB/My-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/AvikAB/My-LeetCode/tree/master/3797-design-spreadsheet) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AvikAB/My-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0062-unique-paths](https://github.com/AvikAB/My-LeetCode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AvikAB/My-LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
@@ -832,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3226-minimum-number-game](https://github.com/AvikAB/My-LeetCode/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AvikAB/My-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/AvikAB/My-LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AvikAB/My-LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
