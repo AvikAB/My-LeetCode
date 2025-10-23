@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AvikAB/My-LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3973-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AvikAB/My-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3778-transform-array-by-parity](https://github.com/AvikAB/My-LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AvikAB/My-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
