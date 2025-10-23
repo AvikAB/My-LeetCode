@@ -1,11 +1,13 @@
 class Solution {
 public:
     bool hasSameDigits(string s) {
-        for(int i=s.size()-1; i>=2; i--){
-            for(int j=0; j<i; j++){
-                s[j] = (s[j]+s[j+1]) % 10 + '0';  // convert int to char
+        int n = s.size();
+        while(n>2){
+            for(int i=0; i<n-1; i++){
+                s[i] = ((s[i]+s[i+1]) % 10) + '0';
             }
+            n--;
         }
-        return s[0] == s[1];
+        return s[0]==s[1];
     }
 };
