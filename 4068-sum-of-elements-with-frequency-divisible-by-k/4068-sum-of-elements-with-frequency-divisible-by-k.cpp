@@ -6,10 +6,10 @@ public:
             m[num]++;
         }
         int sum = 0;
-        for(int i=0; i<m.size(); i++){
-            if(m[i]!=0 and m[i]%k==0){
-                sum += (i * m[i]);
-            }
+        for(auto av:m){
+            int val = av.first;
+            int freq = av.second;
+            if(freq%k==0) sum += val*freq;
         }
         return sum;
     }
