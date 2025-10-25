@@ -1,3 +1,24 @@
+// O(n) using Bruteforce
+class Solution {
+public:
+    int totalMoney(int n) {
+        int ans = 0;
+        int monday$ = 1;
+        while(n>0){
+            int money = monday$;
+            for(int days=1; days<=min(n,7); days++){
+                ans += money;
+                money++;
+            }
+            n -= 7;
+            monday$++;
+        }
+        return ans;
+    }
+};
+
+// Using Maths (Arithmatic Progression) - O(1)
+
 class Solution {
 public:
     int totalMoney(int n) {
@@ -16,3 +37,23 @@ public:
         return ans;
     }
 };
+
+
+/*
+Just use Arithmatic Progression:
+ Total weeks = (n/7), remaining weeks = (n%7).
+ Sum of Arithmatic Progression = terms/2 *(first ele + last ele)
+ where, terms = n/7.
+
+ How to find last ele?
+ Tlast = first ele +(terms-1)*diff, here, diff = 7
+ First tem of rem_weeks = 1+(num of passed weeks) = 1+(n/7)
+
+Then, for loops from 1 to n%7 and add money then money++.
+When n <= 7 then just for loops part will be works.
+
+*/
+
+
+
+//
