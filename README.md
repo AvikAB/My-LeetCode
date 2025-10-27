@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AvikAB/My-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/AvikAB/My-LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AvikAB/My-LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AvikAB/My-LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/AvikAB/My-LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/AvikAB/My-LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/AvikAB/My-LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/AvikAB/My-LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/AvikAB/My-LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2737-row-with-maximum-ones](https://github.com/AvikAB/My-LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AvikAB/My-LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
