@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/3324-split-the-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AvikAB/My-LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3430-count-days-without-meetings](https://github.com/AvikAB/My-LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AvikAB/My-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AvikAB/My-LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AvikAB/My-LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
+| [3430-count-days-without-meetings](https://github.com/AvikAB/My-LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AvikAB/My-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
