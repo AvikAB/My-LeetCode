@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AvikAB/My-LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AvikAB/My-LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AvikAB/My-LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AvikAB/My-LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AvikAB/My-LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3568-find-the-key-of-the-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AvikAB/My-LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AvikAB/My-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AvikAB/My-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3324-split-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/3324-split-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AvikAB/My-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AvikAB/My-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AvikAB/My-LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/AvikAB/My-LeetCode/tree/master/3678-design-task-manager) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
