@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/AvikAB/My-LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AvikAB/My-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1677-matrix-diagonal-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AvikAB/My-LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/AvikAB/My-LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2737-row-with-maximum-ones](https://github.com/AvikAB/My-LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AvikAB/My-LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AvikAB/My-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/AvikAB/My-LeetCode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/AvikAB/My-LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AvikAB/My-LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3226-minimum-number-game](https://github.com/AvikAB/My-LeetCode/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AvikAB/My-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
