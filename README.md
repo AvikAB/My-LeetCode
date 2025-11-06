@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AvikAB/My-LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3973-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3797-design-spreadsheet](https://github.com/AvikAB/My-LeetCode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AvikAB/My-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4055-longest-balanced-substring-i](https://github.com/AvikAB/My-LeetCode/tree/master/4055-longest-balanced-substring-i) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3790-fruits-into-baskets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/AvikAB/My-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AvikAB/My-LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/AvikAB/My-LeetCode/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/AvikAB/My-LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -977,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AvikAB/My-LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -988,11 +993,13 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0744-network-delay-time](https://github.com/AvikAB/My-LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AvikAB/My-LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Quickselect
 |  |
 | ------- |
@@ -1018,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/AvikAB/My-LeetCode/tree/master/0744-network-delay-time) |
+| [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
