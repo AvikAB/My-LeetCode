@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0371-sum-of-two-integers](https://github.com/AvikAB/My-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AvikAB/My-LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AvikAB/My-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AvikAB/My-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AvikAB/My-LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AvikAB/My-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AvikAB/My-LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AvikAB/My-LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0070-climbing-stairs](https://github.com/AvikAB/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AvikAB/My-LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AvikAB/My-LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
