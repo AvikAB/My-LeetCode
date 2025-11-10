@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3799-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AvikAB/My-LeetCode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AvikAB/My-LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3797-design-spreadsheet](https://github.com/AvikAB/My-LeetCode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-implement-router](https://github.com/AvikAB/My-LeetCode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AvikAB/My-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2227-sum-of-subarray-ranges](https://github.com/AvikAB/My-LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AvikAB/My-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AvikAB/My-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Number Theory
 |  |
@@ -965,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AvikAB/My-LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/AvikAB/My-LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Trie
 |  |
 | ------- |
