@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0345-reverse-vowels-of-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/AvikAB/My-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/AvikAB/My-LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/0647-palindromic-substrings) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/AvikAB/My-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1508-longest-happy-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
