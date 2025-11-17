@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AvikAB/My-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1539-diagonal-traverse-ii) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AvikAB/My-LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvikAB/My-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/AvikAB/My-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/AvikAB/My-LeetCode/tree/master/1612-avoid-flood-in-the-city) |
