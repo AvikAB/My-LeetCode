@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0978-valid-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0978-valid-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/AvikAB/My-LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AvikAB/My-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AvikAB/My-LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AvikAB/My-LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0342-power-of-four](https://github.com/AvikAB/My-LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AvikAB/My-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AvikAB/My-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AvikAB/My-LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AvikAB/My-LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
