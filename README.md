@@ -1047,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AvikAB/My-LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/AvikAB/My-LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -1116,4 +1117,8 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AvikAB/My-LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/AvikAB/My-LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
