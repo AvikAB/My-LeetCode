@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0371-sum-of-two-integers](https://github.com/AvikAB/My-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/AvikAB/My-LeetCode/tree/master/0372-super-pow) |
 | [0492-construct-the-rectangle](https://github.com/AvikAB/My-LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0633-sum-of-square-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/AvikAB/My-LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/AvikAB/My-LeetCode/tree/master/0830-largest-triangle-area) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AvikAB/My-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AvikAB/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/AvikAB/My-LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
