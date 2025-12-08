@@ -23,3 +23,26 @@ public:
         return n+1;
     }
 };
+
+
+
+// Another Approach:
+class Solution {
+public:
+    int firstMissingPositive(vector<int>& nums) {
+        set<int> st;
+        int i = 0;
+        while(i<nums.size()){
+            if(nums[i] > 0) {
+                st.insert(nums[i]);
+            }
+            i++;
+        }
+        int comp = 1;
+        for(auto it: st){
+            if(it != comp) return comp;
+            else comp++;
+        }
+        return comp;
+    }
+};
