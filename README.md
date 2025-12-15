@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1018-binary-prefix-divisible-by-5](https://github.com/AvikAB/My-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AvikAB/My-LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1207-unique-number-of-occurrences](https://github.com/AvikAB/My-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AvikAB/My-LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/AvikAB/My-LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0940-fruit-into-baskets](https://github.com/AvikAB/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/AvikAB/My-LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/AvikAB/My-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AvikAB/My-LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AvikAB/My-LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
