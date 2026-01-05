@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1813-maximum-erasure-value](https://github.com/AvikAB/My-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AvikAB/My-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AvikAB/My-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/AvikAB/My-LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/AvikAB/My-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AvikAB/My-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1975-maximum-matrix-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AvikAB/My-LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AvikAB/My-LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1818-maximum-score-from-removing-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AvikAB/My-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AvikAB/My-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AvikAB/My-LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
