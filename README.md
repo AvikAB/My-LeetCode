@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0713-subarray-product-less-than-k](https://github.com/AvikAB/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AvikAB/My-LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/AvikAB/My-LeetCode/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AvikAB/My-LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/AvikAB/My-LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/AvikAB/My-LeetCode/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AvikAB/My-LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/AvikAB/My-LeetCode/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AvikAB/My-LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/AvikAB/My-LeetCode/tree/master/2227-sum-of-subarray-ranges) |
