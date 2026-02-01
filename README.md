@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2737-row-with-maximum-ones](https://github.com/AvikAB/My-LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/AvikAB/My-LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AvikAB/My-LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AvikAB/My-LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AvikAB/My-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AvikAB/My-LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/AvikAB/My-LeetCode/tree/master/3194-find-words-containing-character) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/AvikAB/My-LeetCode/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AvikAB/My-LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3226-minimum-number-game](https://github.com/AvikAB/My-LeetCode/tree/master/3226-minimum-number-game) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AvikAB/My-LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AvikAB/My-LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AvikAB/My-LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AvikAB/My-LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AvikAB/My-LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
