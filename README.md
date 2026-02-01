@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0492-construct-the-rectangle](https://github.com/AvikAB/My-LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
+| [0728-self-dividing-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0826-soup-servings](https://github.com/AvikAB/My-LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/AvikAB/My-LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/AvikAB/My-LeetCode/tree/master/0867-new-21-game) |
