@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AvikAB/My-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3701-compute-alternating-sum](https://github.com/AvikAB/My-LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AvikAB/My-LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AvikAB/My-LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/AvikAB/My-LeetCode/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AvikAB/My-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0372-super-pow](https://github.com/AvikAB/My-LeetCode/tree/master/0372-super-pow) |
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AvikAB/My-LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/AvikAB/My-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -766,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3616-make-array-elements-equal-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AvikAB/My-LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AvikAB/My-LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
