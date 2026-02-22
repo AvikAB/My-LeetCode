@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/AvikAB/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AvikAB/My-LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/AvikAB/My-LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AvikAB/My-LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AvikAB/My-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0238-product-of-array-except-self](https://github.com/AvikAB/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AvikAB/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/AvikAB/My-LeetCode/tree/master/0724-find-pivot-index) |
 | [1590-make-sum-divisible-by-p](https://github.com/AvikAB/My-LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/AvikAB/My-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AvikAB/My-LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
