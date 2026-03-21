@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3637-trionic-array-i](https://github.com/AvikAB/My-LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AvikAB/My-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3701-compute-alternating-sum](https://github.com/AvikAB/My-LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2481-strictly-palindromic-number](https://github.com/AvikAB/My-LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AvikAB/My-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3643-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3973-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2737-row-with-maximum-ones](https://github.com/AvikAB/My-LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AvikAB/My-LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AvikAB/My-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AvikAB/My-LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvikAB/My-LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
