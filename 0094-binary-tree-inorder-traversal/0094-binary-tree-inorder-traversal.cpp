@@ -14,9 +14,9 @@ public:
     void inorder(TreeNode* root, vector<int>&ans){
         if(root==NULL) return;
         // LNR
-        inorder(root->left, ans);
-        ans.push_back(root->val);
-        inorder(root->right, ans);
+        inorder(root->left, ans);   // visit left
+        ans.push_back(root->val);   // visit node
+        inorder(root->right, ans);  // visit right
     }
 
     vector<int> inorderTraversal(TreeNode* root) {
