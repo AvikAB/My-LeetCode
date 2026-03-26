@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0078-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AvikAB/My-LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AvikAB/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AvikAB/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AvikAB/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvikAB/My-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AvikAB/My-LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AvikAB/My-LeetCode/tree/master/0278-first-bad-version) |
@@ -1202,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0102-binary-tree-level-order-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/AvikAB/My-LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1212,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0102-binary-tree-level-order-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
