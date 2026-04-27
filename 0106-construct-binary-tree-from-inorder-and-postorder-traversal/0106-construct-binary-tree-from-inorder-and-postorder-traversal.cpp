@@ -11,31 +11,30 @@
  */
 class Solution {
   public:
-    int find(vector<int>inorder, int target, int start, int end){
-        for(int i=start; i<=end; i++){
-            if(inorder[i]==target) return i;
-        }
-        return -1;
-    }
+    unordered_map<int,int> InorderMap;
     
-    TreeNode* Tree(vector<int> &inorder, vector<int> &postorder, int InSt, int InEnd, int idx){
+    TreeNode* Tree(vector<int> &inorder, vector<int> &postorder, int InSt, int InEnd, int &idx){
         if(InSt>InEnd) return NULL;
         
         TreeNode* root = new TreeNode(postorder[idx]);
-        int pos = find(inorder, postorder[idx], InSt, InEnd);
+        int pos = InorderMap[postorder[idx]];
+        idx--;    // move backward for postorder
         
         // Right:
-        root->right = Tree(inorder, postorder, pos+1, InEnd, idx-1);
+        root->right = Tree(inorder, postorder, pos+1, InEnd, idx);
         // left:
-        root->left = Tree(inorder, postorder, InSt, pos-1, idx-(InEnd-pos)-1);
+        root->left = Tree(inorder, postorder, InSt, pos-1, idx);
         return root;
     }
     
     TreeNode *buildTree(vector<int> &inorder, vector<int> &postorder) {
-        // code here
-        int n = inorder.size();
-        return Tree(inorder, postorder, 0, n-1, n-1);
+        for(int i=0; i<inorder.size(); i++){
+            InorderMap[inorder[i]] = i;
+        }
+
+        int postOidx = postorder.size()-1;
+        return Tree(inorder, postorder, 0, inorder.size()-1, postOidx);
     }
 };
 
-// O(n^2)
+// O(n) Approach using hashmap
