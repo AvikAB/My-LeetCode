@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0759-set-intersection-size-at-least-two](https://github.com/AvikAB/My-LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/AvikAB/My-LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/AvikAB/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AvikAB/My-LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/AvikAB/My-LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/AvikAB/My-LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -1139,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AvikAB/My-LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1163,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0733-flood-fill](https://github.com/AvikAB/My-LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AvikAB/My-LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/AvikAB/My-LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AvikAB/My-LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1240,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0199-binary-tree-right-side-view](https://github.com/AvikAB/My-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AvikAB/My-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1261,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0199-binary-tree-right-side-view](https://github.com/AvikAB/My-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AvikAB/My-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
