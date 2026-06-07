@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0070-climbing-stairs](https://github.com/AvikAB/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/AvikAB/My-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AvikAB/My-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0172-factorial-trailing-zeroes](https://github.com/AvikAB/My-LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AvikAB/My-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AvikAB/My-LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AvikAB/My-LeetCode/tree/master/0204-count-primes) |
