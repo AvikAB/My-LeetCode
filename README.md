@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/0898-transpose-matrix) |
+| [0922-sort-array-by-parity-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-monotonic-array](https://github.com/AvikAB/My-LeetCode/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/AvikAB/My-LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/0647-palindromic-substrings) |
+| [0922-sort-array-by-parity-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/AvikAB/My-LeetCode/tree/master/1089-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AvikAB/My-LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
+| [0922-sort-array-by-parity-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
