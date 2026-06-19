@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1656-count-good-triplets](https://github.com/AvikAB/My-LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AvikAB/My-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/AvikAB/My-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/AvikAB/My-LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0724-find-pivot-index](https://github.com/AvikAB/My-LeetCode/tree/master/0724-find-pivot-index) |
 | [1590-make-sum-divisible-by-p](https://github.com/AvikAB/My-LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/AvikAB/My-LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/AvikAB/My-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AvikAB/My-LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AvikAB/My-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
