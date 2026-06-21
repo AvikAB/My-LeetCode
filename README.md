@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1741-sort-array-by-increasing-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/AvikAB/My-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/AvikAB/My-LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/AvikAB/My-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AvikAB/My-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AvikAB/My-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/AvikAB/My-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AvikAB/My-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1833-maximum-ice-cream-bars](https://github.com/AvikAB/My-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AvikAB/My-LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AvikAB/My-LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -915,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AvikAB/My-LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AvikAB/My-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/AvikAB/My-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AvikAB/My-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AvikAB/My-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -1241,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/AvikAB/My-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Bitmask
 |  |
 | ------- |
