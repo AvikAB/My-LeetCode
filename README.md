@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0485-max-consecutive-ones](https://github.com/AvikAB/My-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AvikAB/My-LeetCode/tree/master/0498-diagonal-traverse) |
+| [0525-contiguous-array](https://github.com/AvikAB/My-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/AvikAB/My-LeetCode/tree/master/0605-can-place-flowers) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/AvikAB/My-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AvikAB/My-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/AvikAB/My-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AvikAB/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AvikAB/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AvikAB/My-LeetCode/tree/master/0724-find-pivot-index) |
