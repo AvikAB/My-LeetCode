@@ -1,14 +1,20 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        vector<int>ans;
-        unordered_map<int,bool>seen;
-        for(int i=0; i<nums.size(); i++){
-            if(seen.count(nums[i])>0) continue;
-            seen[nums[i]] = true;
-            ans.push_back(nums[i]);
+        int n = nums.size();
+        int i = 0;
+        int unique = 1;
+        int j = i+1;
+        while(j<n){
+            if(nums[j]==nums[j-1]){  // equal
+                j++;
+            } else {  // else its unique
+                nums[i+1] = nums[j];
+                unique++;
+                i++;
+                j++;
+            }
         }
-        nums = ans;   // here its says that should update 'nums' not print secondary dataset directly
-        return ans.size();
+        return unique;
     }
 };
