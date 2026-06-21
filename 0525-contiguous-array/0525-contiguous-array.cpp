@@ -9,7 +9,7 @@ public:
         for(int i=0; i<n; i++){
             prefSum += (nums[i]==1) ? 1:-1;  // it will check the diff
 
-            if(prefMap.find(prefSum) != prefMap.end()){  // find the valid subarr, one diff=0 to another diff=0 will be valid subarr.
+            if(prefMap.find(prefSum) != prefMap.end()){  // find the valid subarr, one diff=any to another diff=any will be valid subarr.
                 int len = i - prefMap[prefSum];
                 mxLen = max(mxLen, len);
             }
