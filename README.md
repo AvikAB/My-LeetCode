@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AvikAB/My-LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0978-valid-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/AvikAB/My-LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0633-sum-of-square-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/AvikAB/My-LeetCode/tree/master/1089-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0922-sort-array-by-parity-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
