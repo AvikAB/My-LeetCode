@@ -2,7 +2,7 @@ class Solution {
 public:
     int rearrangeCharacters(string s, string target) {
         int n = s.size();
-        unordered_map<int,int> available, required;
+        unordered_map<char,int> available, required;
         for(auto av:s) available[av]++;
         for(auto av:target) required[av]++;
 
