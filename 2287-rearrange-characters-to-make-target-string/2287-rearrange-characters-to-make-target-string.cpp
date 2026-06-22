@@ -2,17 +2,13 @@ class Solution {
 public:
     int rearrangeCharacters(string s, string target) {
         int n = s.size();
-        vector<int>availableCnt(26,0);
-        for(auto av:s){
-            availableCnt[av-'a']++;
-        }
-        vector<int>requiredCnt(26, 0);
-        for(auto av:target){
-            requiredCnt[av-'a']++;
-        }
+        unordered_map<int,int> available, required;
+        for(auto av:s) available[av]++;
+        for(auto av:target) required[av]++;
+
         int ans = INT_MAX;
-        for(auto av:target){
-            ans = min(ans, availableCnt[av-'a']/requiredCnt[av-'a']);
+        for(auto &[ch, cnt]:required){
+            ans = min(ans, available[ch] / cnt);  // formula: (availCnt/reqCnt)
         }
         return ans;
     }
