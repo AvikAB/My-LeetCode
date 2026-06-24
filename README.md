@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AvikAB/My-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AvikAB/My-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/AvikAB/My-LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AvikAB/My-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AvikAB/My-LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AvikAB/My-LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AvikAB/My-LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
