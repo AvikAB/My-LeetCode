@@ -26,11 +26,3 @@ public:
         return ans;
     }
 };
-
-
-
-
-/*
-After convert the array into 1 or -1. Then the prefix sum will be p[r]-p[l-1] > 0 (subarray sum is > 0 means we have the targeted ele as majority).
-From this, p[r] > p[l-1]. So we will get the ans by how many previous prefix sums (p[l-1]) is less than the curr pref sum (p[r]).
-*/
