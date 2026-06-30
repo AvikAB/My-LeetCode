@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AvikAB/My-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AvikAB/My-LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AvikAB/My-LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AvikAB/My-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1207-unique-number-of-occurrences](https://github.com/AvikAB/My-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AvikAB/My-LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AvikAB/My-LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AvikAB/My-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/AvikAB/My-LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0713-subarray-product-less-than-k](https://github.com/AvikAB/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/AvikAB/My-LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/AvikAB/My-LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvikAB/My-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/AvikAB/My-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AvikAB/My-LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
