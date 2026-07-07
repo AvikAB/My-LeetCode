@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3676-smallest-number-with-all-set-bits](https://github.com/AvikAB/My-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AvikAB/My-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/AvikAB/My-LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AvikAB/My-LeetCode/tree/master/3824-number-of-unique-xor-triplets-i) |
