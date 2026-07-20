@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AvikAB/My-LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AvikAB/My-LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/AvikAB/My-LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1818-maximum-score-from-removing-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/AvikAB/My-LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2390-removing-stars-from-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2288-count-operations-to-obtain-zero](https://github.com/AvikAB/My-LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AvikAB/My-LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AvikAB/My-LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2460-apply-operations-to-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/AvikAB/My-LeetCode/tree/master/3226-minimum-number-game) |
