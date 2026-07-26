@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/AvikAB/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/AvikAB/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AvikAB/My-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AvikAB/My-LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0371-sum-of-two-integers](https://github.com/AvikAB/My-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/AvikAB/My-LeetCode/tree/master/0372-super-pow) |
 | [0492-construct-the-rectangle](https://github.com/AvikAB/My-LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0728-self-dividing-numbers) |
