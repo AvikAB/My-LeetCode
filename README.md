@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3321-type-of-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/AvikAB/My-LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AvikAB/My-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AvikAB/My-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/AvikAB/My-LeetCode/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/AvikAB/My-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AvikAB/My-LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AvikAB/My-LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AvikAB/My-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AvikAB/My-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/AvikAB/My-LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -1317,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0948-sort-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0948-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AvikAB/My-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AvikAB/My-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bitmask
 |  |
 | ------- |
