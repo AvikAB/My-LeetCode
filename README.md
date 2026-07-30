@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2752-sum-multiples](https://github.com/AvikAB/My-LeetCode/tree/master/2752-sum-multiples) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/AvikAB/My-LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AvikAB/My-LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AvikAB/My-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AvikAB/My-LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AvikAB/My-LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/AvikAB/My-LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2887-sort-vowels-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AvikAB/My-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3194-find-words-containing-character](https://github.com/AvikAB/My-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3312-number-of-changing-keys](https://github.com/AvikAB/My-LeetCode/tree/master/3312-number-of-changing-keys) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2618-maximize-the-minimum-powered-city](https://github.com/AvikAB/My-LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/AvikAB/My-LeetCode/tree/master/2689-rearranging-fruits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AvikAB/My-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AvikAB/My-LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3738-make-array-non-decreasing](https://github.com/AvikAB/My-LeetCode/tree/master/3738-make-array-non-decreasing) |
