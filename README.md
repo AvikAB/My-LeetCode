@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0816-design-hashset](https://github.com/AvikAB/My-LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AvikAB/My-LeetCode/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/AvikAB/My-LeetCode/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/AvikAB/My-LeetCode/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/AvikAB/My-LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/AvikAB/My-LeetCode/tree/master/0898-transpose-matrix) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0826-soup-servings](https://github.com/AvikAB/My-LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/AvikAB/My-LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/AvikAB/My-LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/AvikAB/My-LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/AvikAB/My-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0647-palindromic-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0826-soup-servings](https://github.com/AvikAB/My-LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AvikAB/My-LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/AvikAB/My-LeetCode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AvikAB/My-LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AvikAB/My-LeetCode/tree/master/1086-divisor-game) |
@@ -1228,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AvikAB/My-LeetCode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/AvikAB/My-LeetCode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/AvikAB/My-LeetCode/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Depth-First Search
