@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AvikAB/My-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3701-compute-alternating-sum](https://github.com/AvikAB/My-LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/AvikAB/My-LeetCode/tree/master/3731-find-missing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AvikAB/My-LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AvikAB/My-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AvikAB/My-LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3731-find-missing-elements](https://github.com/AvikAB/My-LeetCode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvikAB/My-LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/AvikAB/My-LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/AvikAB/My-LeetCode/tree/master/3859-maximum-product-of-two-digits) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AvikAB/My-LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/AvikAB/My-LeetCode/tree/master/3678-design-task-manager) |
 | [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/AvikAB/My-LeetCode/tree/master/3731-find-missing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AvikAB/My-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
