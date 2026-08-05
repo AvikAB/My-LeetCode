@@ -1267,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AvikAB/My-LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/AvikAB/My-LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3310-remove-methods-from-project](https://github.com/AvikAB/My-LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AvikAB/My-LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3310-remove-methods-from-project](https://github.com/AvikAB/My-LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -1406,4 +1408,8 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/AvikAB/My-LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
