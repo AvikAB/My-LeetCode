@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2460-apply-operations-to-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/AvikAB/My-LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AvikAB/My-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3973-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-find-words-containing-character](https://github.com/AvikAB/My-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3312-number-of-changing-keys](https://github.com/AvikAB/My-LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3396-valid-word](https://github.com/AvikAB/My-LeetCode/tree/master/3396-valid-word) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2689-rearranging-fruits](https://github.com/AvikAB/My-LeetCode/tree/master/2689-rearranging-fruits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AvikAB/My-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AvikAB/My-LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1079,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/AvikAB/My-LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AvikAB/My-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AvikAB/My-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AvikAB/My-LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
