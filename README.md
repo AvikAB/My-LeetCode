@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/AvikAB/My-LeetCode/tree/master/1089-duplicate-zeros) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AvikAB/My-LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/AvikAB/My-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/AvikAB/My-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/AvikAB/My-LeetCode/tree/master/1260-shift-2d-grid) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1015-smallest-integer-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/AvikAB/My-LeetCode/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AvikAB/My-LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1362-airplane-seat-assignment-probability](https://github.com/AvikAB/My-LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1390-four-divisors](https://github.com/AvikAB/My-LeetCode/tree/master/1390-four-divisors) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0713-subarray-product-less-than-k](https://github.com/AvikAB/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AvikAB/My-LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/AvikAB/My-LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/AvikAB/My-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AvikAB/My-LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -1066,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AvikAB/My-LeetCode/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AvikAB/My-LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AvikAB/My-LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1362-airplane-seat-assignment-probability](https://github.com/AvikAB/My-LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1250,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0292-nim-game](https://github.com/AvikAB/My-LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/AvikAB/My-LeetCode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/AvikAB/My-LeetCode/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Depth-First Search
@@ -1414,10 +1419,12 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
