@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2169-simple-bank-system](https://github.com/AvikAB/My-LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AvikAB/My-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/AvikAB/My-LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AvikAB/My-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AvikAB/My-LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AvikAB/My-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AvikAB/My-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AvikAB/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AvikAB/My-LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/AvikAB/My-LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AvikAB/My-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AvikAB/My-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AvikAB/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2023-design-movie-rental-system](https://github.com/AvikAB/My-LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AvikAB/My-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AvikAB/My-LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3678-design-task-manager](https://github.com/AvikAB/My-LeetCode/tree/master/3678-design-task-manager) |
