@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AvikAB/My-LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2023-design-movie-rental-system](https://github.com/AvikAB/My-LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [2048-build-array-from-permutation](https://github.com/AvikAB/My-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AvikAB/My-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AvikAB/My-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AvikAB/My-LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/AvikAB/My-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AvikAB/My-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AvikAB/My-LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AvikAB/My-LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1189-maximum-number-of-balloons](https://github.com/AvikAB/My-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AvikAB/My-LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AvikAB/My-LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1834-minimum-number-of-people-to-teach](https://github.com/AvikAB/My-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AvikAB/My-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AvikAB/My-LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1274,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AvikAB/My-LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Depth-First Search
 |  |
@@ -1440,12 +1445,14 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AvikAB/My-LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AvikAB/My-LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1454,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AvikAB/My-LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
