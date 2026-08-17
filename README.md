@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0367-valid-perfect-square](https://github.com/AvikAB/My-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/AvikAB/My-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/AvikAB/My-LeetCode/tree/master/0372-super-pow) |
+| [0400-nth-digit](https://github.com/AvikAB/My-LeetCode/tree/master/0400-nth-digit) |
 | [0492-construct-the-rectangle](https://github.com/AvikAB/My-LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0349-intersection-of-two-arrays](https://github.com/AvikAB/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AvikAB/My-LeetCode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/AvikAB/My-LeetCode/tree/master/0400-nth-digit) |
 | [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AvikAB/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
