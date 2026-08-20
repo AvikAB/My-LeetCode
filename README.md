@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AvikAB/My-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AvikAB/My-LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AvikAB/My-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AvikAB/My-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AvikAB/My-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AvikAB/My-LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/AvikAB/My-LeetCode/tree/master/3194-find-words-containing-character) |
@@ -1196,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2390-removing-stars-from-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AvikAB/My-LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2460-apply-operations-to-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AvikAB/My-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3226-minimum-number-game](https://github.com/AvikAB/My-LeetCode/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AvikAB/My-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AvikAB/My-LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
