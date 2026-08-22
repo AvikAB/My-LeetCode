@@ -11,6 +11,6 @@ public:
         }
         int tot = sum+prod;
         if(n%tot==0) return true;
-        return false;
+        else return false;
     }
 };
