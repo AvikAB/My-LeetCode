@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1636-number-of-substrings-with-only-1s](https://github.com/AvikAB/My-LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AvikAB/My-LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/AvikAB/My-LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/AvikAB/My-LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AvikAB/My-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/2050-count-good-numbers) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AvikAB/My-LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1797-goal-parser-interpretation](https://github.com/AvikAB/My-LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1927-sum-game](https://github.com/AvikAB/My-LeetCode/tree/master/1927-sum-game) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AvikAB/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AvikAB/My-LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1046,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1833-maximum-ice-cream-bars](https://github.com/AvikAB/My-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AvikAB/My-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AvikAB/My-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/AvikAB/My-LeetCode/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1299,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AvikAB/My-LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AvikAB/My-LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/AvikAB/My-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Depth-First Search
