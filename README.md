@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1813-maximum-erasure-value](https://github.com/AvikAB/My-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1833-maximum-ice-cream-bars](https://github.com/AvikAB/My-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AvikAB/My-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1872-stone-game-viii](https://github.com/AvikAB/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AvikAB/My-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/AvikAB/My-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1610-xor-operation-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AvikAB/My-LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AvikAB/My-LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/AvikAB/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [1925-count-square-sum-triples](https://github.com/AvikAB/My-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/AvikAB/My-LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AvikAB/My-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1590-make-sum-divisible-by-p](https://github.com/AvikAB/My-LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/AvikAB/My-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AvikAB/My-LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/AvikAB/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AvikAB/My-LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AvikAB/My-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1122,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AvikAB/My-LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AvikAB/My-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AvikAB/My-LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1872-stone-game-viii](https://github.com/AvikAB/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AvikAB/My-LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -1302,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AvikAB/My-LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AvikAB/My-LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AvikAB/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AvikAB/My-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -1470,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AvikAB/My-LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AvikAB/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1477,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1140-stone-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AvikAB/My-LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AvikAB/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
