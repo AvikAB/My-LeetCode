@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AvikAB/My-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3701-compute-alternating-sum](https://github.com/AvikAB/My-LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AvikAB/My-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AvikAB/My-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/AvikAB/My-LeetCode/tree/master/3731-find-missing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AvikAB/My-LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/AvikAB/My-LeetCode/tree/master/3678-design-task-manager) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AvikAB/My-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AvikAB/My-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/AvikAB/My-LeetCode/tree/master/3731-find-missing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AvikAB/My-LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
