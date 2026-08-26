@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2429-design-a-food-rating-system](https://github.com/AvikAB/My-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/AvikAB/My-LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2887-sort-vowels-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AvikAB/My-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AvikAB/My-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AvikAB/My-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AvikAB/My-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AvikAB/My-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AvikAB/My-LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AvikAB/My-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AvikAB/My-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AvikAB/My-LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
