@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2023-design-movie-rental-system](https://github.com/AvikAB/My-LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [2048-build-array-from-permutation](https://github.com/AvikAB/My-LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AvikAB/My-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AvikAB/My-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AvikAB/My-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/AvikAB/My-LeetCode/tree/master/2169-simple-bank-system) |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1927-sum-game](https://github.com/AvikAB/My-LeetCode/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/AvikAB/My-LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/AvikAB/My-LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AvikAB/My-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AvikAB/My-LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
