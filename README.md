@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AvikAB/My-LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/AvikAB/My-LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AvikAB/My-LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AvikAB/My-LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3859-maximum-product-of-two-digits](https://github.com/AvikAB/My-LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
