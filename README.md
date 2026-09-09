@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1260-shift-2d-grid](https://github.com/AvikAB/My-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AvikAB/My-LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/AvikAB/My-LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AvikAB/My-LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/AvikAB/My-LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -1354,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AvikAB/My-LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1381,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/AvikAB/My-LeetCode/tree/master/1306-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AvikAB/My-LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3310-remove-methods-from-project](https://github.com/AvikAB/My-LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
