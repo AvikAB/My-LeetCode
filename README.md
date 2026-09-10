@@ -1359,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AvikAB/My-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AvikAB/My-LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AvikAB/My-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/AvikAB/My-LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3310-remove-methods-from-project](https://github.com/AvikAB/My-LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3863-power-grid-maintenance](https://github.com/AvikAB/My-LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -1467,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AvikAB/My-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/AvikAB/My-LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
@@ -1490,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AvikAB/My-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Queue
 |  |
 | ------- |
