@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AvikAB/My-LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AvikAB/My-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AvikAB/My-LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0342-power-of-four](https://github.com/AvikAB/My-LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AvikAB/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AvikAB/My-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3412-permutation-difference-between-two-strings](https://github.com/AvikAB/My-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AvikAB/My-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AvikAB/My-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AvikAB/My-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/AvikAB/My-LeetCode/tree/master/3531-count-covered-buildings) |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [3345-smallest-divisible-digit-product-i](https://github.com/AvikAB/My-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AvikAB/My-LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AvikAB/My-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AvikAB/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
