@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AvikAB/My-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AvikAB/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AvikAB/My-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AvikAB/My-LeetCode/tree/master/0016-3sum-closest) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvikAB/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AvikAB/My-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/AvikAB/My-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0022-generate-parentheses) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AvikAB/My-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AvikAB/My-LeetCode/tree/master/0053-maximum-subarray) |
@@ -1545,4 +1548,8 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AvikAB/My-LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
