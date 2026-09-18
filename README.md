@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0345-reverse-vowels-of-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AvikAB/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/AvikAB/My-LeetCode/tree/master/0611-valid-triangle-number) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0344-reverse-string](https://github.com/AvikAB/My-LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/AvikAB/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/AvikAB/My-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/AvikAB/My-LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0152-maximum-product-subarray](https://github.com/AvikAB/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/AvikAB/My-LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0392-is-subsequence](https://github.com/AvikAB/My-LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/AvikAB/My-LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
