@@ -11,3 +11,6 @@ public:
         else return (v[n/2 - 1] + v[n/2]) / 2.0;
     }
 };
+
+
+// O((n1+n2)log(n1+n2)) = not optimal
