@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0742-to-lower-case](https://github.com/AvikAB/My-LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/AvikAB/My-LeetCode/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/AvikAB/My-LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0856-score-of-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/AvikAB/My-LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -942,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0316-remove-duplicate-letters](https://github.com/AvikAB/My-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/AvikAB/My-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AvikAB/My-LeetCode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1585,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0022-generate-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AvikAB/My-LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
