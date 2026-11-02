@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0417-pacific-atlantic-water-flow](https://github.com/AvikAB/My-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/AvikAB/My-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/AvikAB/My-LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AvikAB/My-LeetCode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/AvikAB/My-LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0371-sum-of-two-integers](https://github.com/AvikAB/My-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/AvikAB/My-LeetCode/tree/master/0372-super-pow) |
 | [0400-nth-digit](https://github.com/AvikAB/My-LeetCode/tree/master/0400-nth-digit) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AvikAB/My-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/AvikAB/My-LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AvikAB/My-LeetCode/tree/master/0633-sum-of-square-numbers) |
