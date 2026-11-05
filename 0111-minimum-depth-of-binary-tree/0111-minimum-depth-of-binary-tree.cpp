@@ -9,13 +9,30 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+// BFS
+
 class Solution {
 public:
     int minDepth(TreeNode* root) {
         if(!root) return 0;
-        if(!root->left) return 1+minDepth(root->right);
-        if(!root->right) return 1+minDepth(root->left);
+        
+        queue<TreeNode*>q;
+        q.push(root);
+        int dep = 1;
+        while(!q.empty()){
+            int sz = q.size();
+            for(int i=0; i<sz; i++){
+                TreeNode* curr = q.front();
+                q.pop();
 
-        return 1+min(minDepth(root->left), minDepth(root->right));
+                if(curr->left==NULL and curr->right==NULL) return dep;  // first child found
+
+                if(curr->left) q.push(curr->left);
+                if(curr->right) q.push(curr->right);
+            }
+            dep++;
+        }
+        return -1;
     }
 };
