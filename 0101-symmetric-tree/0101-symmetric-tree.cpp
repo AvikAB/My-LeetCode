@@ -9,36 +9,21 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
- class Solution {
+class Solution {
 public:
-    // Function to create a mirror of a tree
-    TreeNode* mirror(TreeNode* root) {
-        if(root == NULL) return NULL;
-        
-        TreeNode* mirrored = new TreeNode(root->val);
-        mirrored->left = mirror(root->right);
-        mirrored->right = mirror(root->left);
-        
-        return mirrored;
+
+    bool check(TreeNode* l, TreeNode* r){
+        if(!l and !r) return true;    // both subtrees are null
+
+        if((l==NULL and r!=NULL) or (r==NULL and l!=NULL)) return false;   // One of them is not null & other is null - false
+
+        if((l->val==r->val) and check(l->left, r->right) and check(l->right, r->left)) return true;   // vals are equal & mirror check (draw the diagram)
+
+        return false;
     }
-    
-    // Function to check if two trees are identical
-    bool isIdentical(TreeNode* t1, TreeNode* t2) {
-        if(t1 == NULL && t2 == NULL) return true;
-        if(t1 == NULL || t2 == NULL) return false;
-        
-        return (t1->val == t2->val) && 
-               isIdentical(t1->left, t2->left) && 
-               isIdentical(t1->right, t2->right);
-    }
-    
+
     bool isSymmetric(TreeNode* root) {
-        if(root == NULL) return true;
-        
-        // Create mirror of left subtree
-        TreeNode* mirroredLeft = mirror(root->left);
-        
-        // Check if mirrored left is identical to right
-        return isIdentical(mirroredLeft, root->right);
+        if(!root) return true;  // empty tree
+        return check(root->left, root->right);
     }
 };
