@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0166-fraction-to-recurring-decimal](https://github.com/AvikAB/My-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/AvikAB/My-LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/AvikAB/My-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/AvikAB/My-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/AvikAB/My-LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1254,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0078-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/AvikAB/My-LeetCode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/AvikAB/My-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/AvikAB/My-LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/AvikAB/My-LeetCode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AvikAB/My-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1421,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0199-binary-tree-right-side-view](https://github.com/AvikAB/My-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AvikAB/My-LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AvikAB/My-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AvikAB/My-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/AvikAB/My-LeetCode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AvikAB/My-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1551,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0199-binary-tree-right-side-view](https://github.com/AvikAB/My-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AvikAB/My-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/AvikAB/My-LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AvikAB/My-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -1585,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0199-binary-tree-right-side-view](https://github.com/AvikAB/My-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AvikAB/My-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/AvikAB/My-LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AvikAB/My-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0543-diameter-of-binary-tree) |
