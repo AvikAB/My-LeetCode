@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0977-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/AvikAB/My-LeetCode/tree/master/0978-valid-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/AvikAB/My-LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/AvikAB/My-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AvikAB/My-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/AvikAB/My-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0739-daily-temperatures](https://github.com/AvikAB/My-LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AvikAB/My-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/AvikAB/My-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AvikAB/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1373,6 +1375,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AvikAB/My-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/AvikAB/My-LeetCode/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AvikAB/My-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AvikAB/My-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AvikAB/My-LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1568,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AvikAB/My-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1605,6 +1609,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AvikAB/My-LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AvikAB/My-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1682,4 +1687,5 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [0700-search-in-a-binary-search-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AvikAB/My-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AvikAB/My-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AvikAB/My-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
