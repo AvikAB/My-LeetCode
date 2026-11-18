@@ -11,33 +11,52 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root, vector<int>&v){
-        if(!root) return;
-
-        inorder(root->left, v);
-        v.push_back(root->val);
-        inorder(root->right, v);
-    }
 
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        vector<int>ans1, ans2;
-        inorder(root1, ans1);
-        inorder(root2, ans2);
-
         vector<int>ans;
-        int i=0, j=0;
-        while(i<ans1.size() and j<ans2.size()){
-            if(ans1[i] < ans2[j]) ans.push_back(ans1[i++]);
-            else ans.push_back(ans2[j++]);
+        stack<TreeNode*>s1, s2;
+        // push node & all its left
+        while(root1){
+            s1.push(root1);
+            root1 = root1->left;
+        }
+        while(root2){
+            s2.push(root2);
+            root2 = root2->left;
         }
 
-        while(i<ans1.size()){
-            ans.push_back(ans1[i++]);
-        }
-        while(j<ans2.size()){
-            ans.push_back(ans2[j++]);
-        }
+        while(!s1.empty() or !s2.empty()){
+            // comparison
+            int takefromS1;
+            if(s1.empty()) takefromS1 = 0;
+            else if(s2.empty()) takefromS1 = 1;
+            else if(s1.top()->val > s2.top()->val) takefromS1 = 0;
+            else takefromS1 = 1;
 
+            // now, the work property of takefromS1
+            if(takefromS1){
+                TreeNode* curr = s1.top();
+                s1.pop();
+                ans.push_back(curr->val);  // add to the ans
+                // now go to right side & take all left from that.
+                // because of inorder traversal (LNR)
+                curr = curr->right;
+                while(curr){
+                    s1.push(curr);
+                    curr = curr->left;
+                }
+            } else {
+                TreeNode* curr = s2.top();
+                s2.pop();
+                ans.push_back(curr->val);
+                // now go to right side & take all left from that
+                curr = curr->right;
+                while(curr){
+                    s2.push(curr);
+                    curr = curr->left;
+                }
+            }
+        }
         return ans;
     }
 };
