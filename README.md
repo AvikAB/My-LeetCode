@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2536-determine-if-two-events-have-conflict](https://github.com/AvikAB/My-LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/AvikAB/My-LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AvikAB/My-LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AvikAB/My-LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/AvikAB/My-LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AvikAB/My-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2689-rearranging-fruits](https://github.com/AvikAB/My-LeetCode/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/AvikAB/My-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Solved by Me!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AvikAB/My-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AvikAB/My-LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AvikAB/My-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AvikAB/My-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AvikAB/My-LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AvikAB/My-LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/AvikAB/My-LeetCode/tree/master/2689-rearranging-fruits) |
